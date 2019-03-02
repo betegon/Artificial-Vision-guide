@@ -16,10 +16,11 @@ This repository is an intend to make artificial vision learning easier through i
 2.	Drawing functions on images.
 3.	Image thresholding.
 4.	Histograms and HSV images.
-5.	To be continued
+5.	Arithmetic operations on images
+6.  Image preprocessing and postprocessing
+7.  Contours
+8.  Final Project
 
 ## TO-DO
 1.	Add Google Colab option to all notebooks.
 2.	Add links to NOTEBOOKS ORDER
-3. 	Continue 4. notebook.
-
